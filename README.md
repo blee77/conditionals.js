@@ -1,1 +1,2 @@
 # conditionals.js
+# loopyLighthouse
